@@ -54,7 +54,7 @@ function makePlayer(name, score){
 }
 function board(){
   highScore.sort(function(a,b){
-      return a.age-b.age;
+      return b.age-a.age;
   });
   console.log("\n\n\tTop 10 Score Board:");
   console.log("   Name\t\t\tScore");
