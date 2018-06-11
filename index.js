@@ -40,7 +40,7 @@ function home(){
     break;
  }
 
-
+//wowwwwwwwwtesttttt
 }
 function instructions(){
   console.log("Welcome to Math+. Here you can practice your calculation skills by competing against others. When you enter, you will have the option to play a game in 3 different levels. A correct answer on level I will earn you 5 point, while level II will earn you 10 points, and level III will earn you 20 point. Practice you math skill, and have fun!!! :)");
